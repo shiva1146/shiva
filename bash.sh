@@ -5,4 +5,4 @@ if
 then echo "welcome to shiva"
 else
 echo "Invalid name"
-if
+fi
